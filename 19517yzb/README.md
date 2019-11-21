@@ -5,7 +5,7 @@
 ...<font color=#0099ff>经过了几天几夜彻夜无眠的学习
 我终于了解了Markdown的基本使用方式，以及各种基本语法。</font>...
 
-# 1. **我学习Markdown的方式与经验**  
+# 1. **[我学习Markdown的方式与经验]**  
     1. 首先我下载了一个Good chrome浏览器，在里面直接搜索了markdown学习.  
     2. 然后我在一个[菜鸟教程][2]的网站，里面有许多资料.    
     3. 然后我还用到了b站，观看了各个大佬的视频后，我对markdown有了更深一步的了解  
@@ -15,14 +15,14 @@
 
 [5]:https://www.jianshu.com/p/40ba812dd973
 
-# 2.**我的成果展示**  
+# 2.**[我的成果展示]**  
 ## Markdown 标题
-##### 这是一个自我介绍    
-#### 这是一个自我介绍  
-### 这是一个自我介绍  
-## 这是一个自我介绍  
-# 这是一个自我介绍  
-# 首先 我超帅  
+##### 我超帅    
+#### 我超帅  
+### 我超帅  
+## 我超帅  
+# 我超帅  
+ 
 ## Markdown 列表  
 * 我超帅  
 - 我超帅  
@@ -35,9 +35,9 @@
   
 [6]:https://www.bilibili.com/  
 ### 这是我的帅照
-![我真帅]( 噢噢排位)
+![]( https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/1b2c0292341efd00e89ebf0b09090c18%20(1).jpg)
 
-### 不好意思放错了  
+#### 不好意思放错了  
 ~~Sorry!本人已帅到电脑显示不出 :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:~~
 
 ### 这是我的简介：
@@ -49,26 +49,34 @@
 [2]:https://www.runoob.com/markdown/md-title.html
 [3]: https://github.com/xiebruce/PicUploader
 
-# 3.**java环境的配置**  
+# 3.**[java环境的配置]**  
 ## 1.我配置java环境的部分过程：
-![a](https://github.com/kimojinmmp/19517yzb/blob/master/19517yzb/QQ图片20191121085733.png)
+![a](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121085733.png)
  
-![b](https://github.com/kimojinmmp/19517yzb/blob/master/19517yzb/QQ图片20191121085739.png) 
+![b](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121085739.png) 
 
-![c](https://github.com/kimojinmmp/19517yzb/blob/master/19517yzb/QQ图片20191121085745.png)
+![c](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121085745.png)
 
-![d](https://github.com/kimojinmmp/19517yzb/blob/master/19517yzb/QQ图片20191121085751.png)
+![d](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121085751.png)  
+
+![e](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121182759.jpg)
 
 ## 2.我配置时所用于学习的网页：  
 https://www.oracle.com/technetwork/java/javase/downloads/index.html  
 https://www.runoob.com/w3cnote/windows10-java-setup.html  
 https://www.runoob.com/java/java-environment-setup.html  
 
-# 4.**虚拟机的安装**    
+# 4.**[虚拟机的安装]**    
 ## 我使用VMware Workstation Pro创建一个linux系统的虚拟机
 ### 1.软件来源：  
 某漂亮迷人可爱帅气好看的学姐在招新群中的分享（非常感谢！）  
-### 2.安装过程：  
+### 2.安装过程：
+![](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121182722.png)  
+![](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121182737.png)  
+![](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121182743.png)  
+![](https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/QQ图片20191121182753.png)    
+
+# 5.**[html和css的自我介绍]**
 
 
 https://blog.csdn.net/qq_33061377/article/details/80713140
