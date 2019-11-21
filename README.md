@@ -1,19 +1,11 @@
-# 创客基地招新任务清单
+[19557sx](https://github.com/shixi2002/new-people)
 
-[![study photo](https://github.com/stanedward1/new-team/raw/master/img/TIM%E6%88%AA%E5%9B%BE20191106122101.jpg)](https://github.com/stanedward1/new-team/blob/master/img/TIM截图20191106122101.jpg)
 
-## zero
 
-欢迎大家报名计算机科学与工程学院创客基地，此任务截止时间为11月28日晚，接下来的一个星期多的时间里，我们将通过相关任务来考察评定大家的学习能力，**并以此为依据选拔基地成员**。希望各位体现出自己的水平，出色地完成任务。大家加油叭！
 
-------
 
-## one 做任务前的准备
 
-1. 注册自己的**github**账号
-2. 学习**Markdown**语法
-3. 在本仓库中添加一个以自己 `学号前两位+后三位+名字缩写` 命名的文件夹，文件夹内包含一个命名为README.md的文件，文件内容要求：
-   - 将自己的网络昵称添加到 README.md首行， 并使用超链接链接到你的github主页。 
+
    - 讲述自己学习Markdown的过程、经历和实践，以及成果展示(各种Markdown语法的使用)
    - 以上内容需使用Markdown编写
 
