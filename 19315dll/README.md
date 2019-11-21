@@ -7,4 +7,4 @@
 书上配置path路径是D:\java\jdk1.8.0_131\bin  classpath路径是D:\java\jdk1.8.0_131\lib
 但视频里却要先配置一个JAVA_HOME的路径也就是Java安装路径下JDK的路径然后再配置path和classpath路径。而且视频里说path路径已有只要加“；”在后面添加我们的路径JAVA_HOME%\bin;classpath路径是JAVA_HOME%\lib\dt.jar。
 最后用命令提示符输入Javac看是否有如下图片，有则正确。
-![实例](https://www.2cto.com/uploadfile/Collfiles/20180413/201804131409341003.png ''来自百度'')
+![avatar](https://www.2cto.com/uploadfile/Collfiles/20180413/201804131409341003.png)
