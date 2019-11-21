@@ -5,14 +5,16 @@
 ...<font color=#0099ff>经过了几天几夜彻夜无眠的学习
 我终于了解了Markdown的基本使用方式，以及各种基本语法。</font>...
 
-# 1. **[我学习Markdown的方式与经验]**  
+# 1.**[我学习Markdown的方式与经验]**  
     1. 首先我下载了一个Good chrome浏览器，在里面直接搜索了markdown学习.  
+[2]:https://www.runoob.com/markdown/md-title.html  
     2. 然后我在一个[菜鸟教程][2]的网站，里面有许多资料.    
     3. 然后我还用到了b站，观看了各个大佬的视频后，我对markdown有了更深一步的了解  
     4. 我还在不知道怎么用Markdown时，去百度贴吧找了一下我要的答案，最后在[xiebruce][3]这位大佬的帮助下我成功地学会了这一知识
     5. 我不知道怎么在markdown中插入图片时，我找了17级的学长并且在百度上大量的搜寻，最终学会了这如何插入图片  
-    6. 最后在[简书][5]的一个网页上完善我对Markdown的理解
+    6. 最后在[简书][5]的一个网页上完善我对Markdown的理解  
 
+[3]: https://github.com/xiebruce/PicUploader
 [5]:https://www.jianshu.com/p/40ba812dd973
 
 # 2.**[我的成果展示]**  
@@ -45,9 +47,6 @@
 | 姓名 | 性别 | 性格 |
 | :----: | ----: | :----: |
 | yaozhibin | 男 | 本人性格开朗，但是面对大场面会很紧张(因为从小没见过啥大世面，手动滑稽～～)，是一个非常爱笑的boy。 |
-
-[2]:https://www.runoob.com/markdown/md-title.html
-[3]: https://github.com/xiebruce/PicUploader
 
 # 3.**[java环境的配置]**  
 ## 1.我配置java环境的部分过程：
