@@ -2,9 +2,9 @@
 [yy的主页](https://github.com/1404117061)
 
 
-<center>
- 我学markdown的过程
-</center>
+
+ # 我学markdown的过程
+
 
 
 @[toc]
@@ -166,4 +166,27 @@ print(yy.name+'最帅')
 &emsp;&emsp;刚开始的时候的时候，我通过b站去了解，什么是markdown，然后发现，markdown其实很简单，就像是数学公式一样，只需要知道怎么用，就能很流畅的使用markdown了。最初，我通过找视频，去学习，后来，我直接去网上搜索markdown的基础语法，然后照着语法去写，就能写出现在的内容了
   
   
+  
+  # java环境配置：<br>
+  1. 在官网上面下载jdk
+  2. 讲jdk存放在c盘里的Program Files里
+  3. 打开我的电脑，点击属性，再找到环境变量，由于我将jdk装在c盘，所以在用户变量里添加变量名为JAVA_HOME，变量值为C:\Program Files\Java\jdk1.8.0_231的路径
+  4. 在path中添加%JAVA_HOME%\bin
+  5. 打开cmd，输入java -version，检验是否安装成功<br>
+  
+  ![路径](https://img-blog.csdnimg.cn/20191123193046885.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
+  
+  ![java](https://img-blog.csdnimg.cn/2019112319333665.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
+  
+  
+  # 虚拟机环境配置<br>
+  虚拟机的话，我选择的是Vm VirtualBox，然后我下载了ubuntu
+  1. 安装Vm VirtualBox
+  2. 点击新建，给虚拟机赋予名字，如：pyvip，然后选择类型，和版本，如类型：linux，版本：unbuntu（64-bit）
+  3. 给虚拟机分配内存
+  4. 使用以后虚拟硬盘文件，找到自己的ubuntu的文件的路径
+  5. 点击创建，就完成啦<br>
+  这是虚拟机打开后的界面：
+  ![虚拟机内的界面](https://img-blog.csdnimg.cn/20191123194905601.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
+  ![我的虚拟机](https://img-blog.csdnimg.cn/20191123194907551.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
   
