@@ -26,31 +26,7 @@
 
 >引用文本：失败乃成功之母
 
-### 插入Mermaid流程图
 
-[链接](https://mermaidjs.github.io/#/flowchart?id=graph)
-
-```mermaid
-graph LR
-A[长方形] -- 链接 --> B((圆))
-A --> C(圆角长方形)
-B --> D{菱形}
-C --> D
-```
-
-
-### 插入Flowchart流程图
-```mermaid
-flowchat
-st=>start: 开始
-e=>end: 结束
-op=>operation: 我的操作
-cond=>condition: 确认？
-
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
 
 
 
