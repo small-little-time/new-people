@@ -38,7 +38,7 @@ H~2~O is是液体。
 
 
 ## 六、插入链接与图片
-
+如：
 链接: [link](https://mp.csdn.net).
 使图片居中则在链接最后加pic_cetler,使图片带尺寸则在链接最后加=a*a,a为常量。注意要在括号内加。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191124123618871.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTkyMTQyNg==,size_16,color_FFFFFF,t_70)
