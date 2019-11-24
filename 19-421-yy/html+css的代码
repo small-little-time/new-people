@@ -1,0 +1,81 @@
+<div style='display: none'>
+以下内容（line4~line70）是我的html代码
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title> yy的我介绍  </title>
+<style type="text/css">
+
+span {color:red;}
+
+p{
+text-indent:3em;
+    font-family:"宋体";
+    
+    
+}
+
+.a{color:red; font-size:40px;}
+
+h1{	    
+    text-align:center;
+    color:red;
+    }
+
+h2{	    
+    text-align:center;
+    color:red;
+    }
+
+</style>
+</head>
+<body>
+<h1>yy的自我介绍</h1>
+<p style=font-size:20px>各位学长学姐你们好，我说计科1904班<span>郁钰</span>
+，来自湖南湘西，喜欢弹吉他，不喜欢<a href="https://baike.baidu.com/item/%E6%B9%98%E8%A5%BF%E8%B5%B6%E5%B0%B8/667752?fr=aladdin">赶尸</a> 
+性格方面嘛，虽然谈不上很活泼的那种，但也算开朗乐观吧，我比较慢热，嘿嘿^_^;   
+</p>
+
+<p style=font-size:20px>我老家是湖南永顺，不知道您们有没听说过<a href="https://baike.baidu.com/item/%E8%80%81%E5%8F%B8%E5%9F%8E%E9%81%97%E5%9D%80/14104461?fromtitle=%E8%80%81%E5%8F%B8%E5%9F%8E&fromid=10006900&fr=aladdin">老司城</a>，老司城是世界文化遗产，那里风景秀丽，而且威武雄壮，从古代遗传至今，要是想去旅游的话，那里是个不错的景点哦，很值得一看的
+   <center> <img src="https://img-blog.csdnimg.cn/20191124113357609.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70" width=400 hight=500></center>
+</p>
+
+<p style=font-size:20px>
+    emmm，自我介绍什么的，我是真的<span class="a">不会写啊</span>,呜呜，所以，我写下自己这次做任务的心得吧
+</p><br>
+
+<h2> 任务心得</h2>
+
+<hr></hr>
+
+
+
+<p style=font-size:20px>
+    刚开始，我看到这些任务的时候，表情是这样的：<br><center>
+    <img src="https://img-blog.csdnimg.cn/20191124113348168.jpg" width=200 hight=200></center><br>
+    我从看到任务开始，全程就自己一个人摸索，从周6下午开始做，一直做到周日中午，期间除了吃饭洗澡睡觉，其余时间全在电脑桌上，<center><img src="https://img-blog.csdnimg.cn/20191124115101810.jpeg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70" width=200 hight=200></center><br>
+    连我自己也不太相信，我竟然能认真的专研这么久，嘿嘿
+    
+</p>
+
+<p style=font-size:20px>
+    其实，感觉还是收获蛮多的，学到了<span>markddown</span>的基本语法，还发现<span>GitHub</span>这个宝贝，现在能够使用<span>html+css</span>的一些基本语法了，然后就是配置<span>java</span>和<span>虚拟机</span>的环境，由于暑假时候自学过<span>python</span>，所以配置java环境和装虚拟机这项任务对我来说还是很简单的，不管能不能进基地，我觉得这能学这么多，都挺有意义的，<br>
+    <img src="https://img-blog.csdnimg.cn/20191124121533225.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70" width=300 hight=300>
+    
+</p>
+<p style=font-size:20px; >以上，便是自我我介绍了，要是能进入基地，以后的时间里，我会虚心请教，向各位学长学姐们学习
+    
+</p>
+
+
+
+
+
+
+
+
+
+</div>
+
