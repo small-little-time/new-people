@@ -1,4 +1,3 @@
-
 # Bangcjh
    [我的主页](https://github.com/Bangcjh)  
     
@@ -12,7 +11,7 @@
 
 <br>
 ==过了一段时间后==
-![](http://upload.qlwb.com.cn/2018/0920/1537429901731.png)
+![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC5xbHdiLmNvbS5jbi8yMDE4LzA5MjAvMTUzNzQyOTkwMTczMS5wbmc?x-oss-process=image/format,png)
 
 ### 表格
 项目     | Value
@@ -76,23 +75,8 @@ fun();
     + 处理器配置，虚拟器数量及内存，网络连接类型，I/O控制器类型，虚拟磁盘类型默认
     + ==磁盘空间容量一般10G==
     + 创建虚拟器后
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
+     ![](https://img-blog.csdnimg.cn/2019112422035971.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTg5OTU2OQ==,size_16,color_FFFFFF,t_70)
 
 
 
