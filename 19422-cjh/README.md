@@ -7,11 +7,9 @@
 
 ==一开始==
 <br>
-![]()
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9wcy5zc2wucWhpbWcuY29tL3NkbXQvMTI1XzE2Ml8xMDAvdDAxNGVmNGU5YTBlODdkYzViMi53ZWJw?x-oss-process=image/format,png)
 
-<br>
-==过了一段时间后==
-![](https://imgconvert.csdnimg.cn/aHR0cDovL3VwbG9hZC5xbHdiLmNvbS5jbi8yMDE4LzA5MjAvMTUzNzQyOTkwMTczMS5wbmc?x-oss-process=image/format,png)
+![](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9wMC5zc2wucWhpbWdzNC5jb20vZG1zbWZsLzEyMF85NV8vdDAxZDkwMzFmNjFhZWY2MzZiMi5naWY)
 
 ### 表格
 项目     | Value
@@ -77,11 +75,6 @@ fun();
     + 创建虚拟器后
     
      ![](https://img-blog.csdnimg.cn/2019112422035971.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTg5OTU2OQ==,size_16,color_FFFFFF,t_70)
-
-
-
-
-
 
 
 
