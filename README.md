@@ -5,7 +5,8 @@
 
 
 
-<img src="C:\Users\86186\Pictures\IMG_20191121_210032.jpg" alt="TYPORA" style="zoom:67%;" />
+![TYPORA](https://github.com/shixi2002/new-people/blob/master/IMG_20191121_210032.jpg?raw=true)
+
 
 ###### 书写即为美学
 
@@ -39,13 +40,13 @@
 
 #### 2.做笔记
 
-![NOTE 1](C:\Users\86186\Pictures\IMG_20191121_205655.jpg)
+![NOTE 1](https://github.com/shixi2002/new-people/blob/master/IMG_20191121_205655.jpg?raw=true)
 
-![NOTE 2](C:\Users\86186\Pictures\IMG_20191121_205650.jpg)
+![NOTE 2](https://github.com/shixi2002/new-people/blob/master/IMG_20191121_205650.jpg?raw=true)
 
-![NOTE 3](C:\Users\86186\Pictures\IMG_20191121_205554.jpg)
+![NOTE 3](https://github.com/shixi2002/new-people/blob/master/IMG_20191121_205554.jpg?raw=true)
 
-![NOTE 4](C:\Users\86186\Pictures\IMG_20191121_205549.jpg)
+![NOTE 4](Chttps://github.com/shixi2002/new-people/blob/master/IMG_20191121_205549.jpg?raw=true)
 
 
 
@@ -123,7 +124,7 @@
 
 ### ***I know what i want,and i know how to get it,and doing it now.that's all. 我知道我想要什么，也知道我该怎么去得到，而且正在做。这样就够了 。***
 
-![STUDY](C:\Users\86186\Pictures\20180103192516264.jpg)
+![study](https://github.com/shixi2002/new-people/blob/master/20180103192516264.jpg?raw=true)
 
 
 
