@@ -11,7 +11,9 @@ span {color:red;}
 p{
 	text-indent:2em;
     font-family:"宋体";
-	font-size:30px
+	font-size:30px;
+    color:orange;
+ font-weight:bold;
     
     
 }
@@ -26,15 +28,64 @@ h1{
 h2{	    
     text-align:center;
     color:red;
-	font-size:30px
+    font-size:30px
     }
+
+
+#yy{
+
+  position:fixed;
+
+  top: 0;
+
+  left: 0;
+
+  width:100%;
+
+  height:100%;
+
+  min-width: 1000px;
+
+  z-index:-10;
+
+  zoom: 1;
+
+  background-color: #fff;
+
+  background-repeat: no-repeat;
+
+  background-size: cover;
+
+  -webkit-background-size: cover;
+
+  -o-background-size: cover;
+
+  background-position: center 0;
+
+}
+
+
+
+
+
 
 </style>
 </head>
 <body>
+
 <h1>yy的自我介绍</h1>
+
+<p class="wrapper">
+
+   
+
+    <p id="yy" style="background-image: url(https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1574774181841&di=6348d5176061cccddbb3885c2d2ad5bf&imgtype=0&src=http%3A%2F%2Fimage.namedq.com%2Fuploads%2F20181001%2F23%2F1538406715-fNJCdLqmiX.jpg);"></p>
+
+    
+
+</p>
 <p >各位学长学姐你们好，我说计科1904班<span>郁钰</span>
-，来自湖南湘西，喜欢弹吉他，不喜欢<a href="https://baike.baidu.com/item/%E6%B9%98%E8%A5%BF%E8%B5%B6%E5%B0%B8/667752?fr=aladdin">赶尸</a> 
+，来自湖南湘西，喜欢弹吉他，打游戏，不喜欢<a href="https://baike.baidu.com/item/%E6%B9%98%E8%A5%BF%E8%B5%B6%E5%B0%B8/667752?fr=aladdin">赶尸</a> 
 性格方面嘛，虽然谈不上很活泼的那种，但也算开朗乐观吧，我比较慢热，嘿嘿^_^;   
 </p>
 
@@ -54,7 +105,7 @@ h2{
 
 <p>
     刚开始，我看到这些任务的时候，表情是这样的：<br><center>
-    <img src="https://img-blog.csdnimg.cn/20191124113348168.jpg" width=200 hight=200></center>
+    <img src="https://img-blog.csdnimg.cn/20191124113348168.jpg" width=200 ></center>
 </p>	
 <p>	我从看到任务开始，全程就自己一个人摸索，从周6下午开始做，一直做到周日中午，期间除了吃饭洗澡睡觉，其余时间全在电脑桌上，</br></br>
 </p>	
@@ -66,14 +117,22 @@ h2{
 
 <p>
     其实，感觉还是收获蛮多的，学到了<span>markddown</span>的基本语法，还发现<span>GitHub</span>这个宝贝，现在能够使用<span>html+css</span>的一些基本语法了，然后就是配置<span>java</span>和<span>虚拟机</span>的环境，由于暑假时候自学过<span>python</span>，所以配置java环境和装虚拟机这项任务对我来说还是很简单的，不管能不能进基地，我觉得这能学这么多，都挺有意义的，<br>
-  <center>  <img src="https://img-blog.csdnimg.cn/20191124121533225.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70" width=300 hight=300>
+  <center>  <img src="https://img-blog.csdnimg.cn/20191124121533225.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70" width=300 >
     </center>
 </p>
 <p style="color:green" >以上，便是自我我介绍了，要是能进入基地，以后的时间里，我会虚心请教，向各位学长学姐们学习
     
 </p>
 	
+
 	</html>
+	
+	
+	
+	
+	
+	
+
 	
 	
 	
