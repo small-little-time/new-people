@@ -83,10 +83,6 @@ fun();
  
  
  
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
 
 # 自我介绍
 
