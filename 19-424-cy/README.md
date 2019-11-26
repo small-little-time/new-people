@@ -111,7 +111,11 @@ scanf("%d",&a[i]);
 #### 酸酸经历
 
 >###### 对于电脑操作不太熟的我，在配置之前找了许多关于如何配置这个的相关资料，没想到，版本下错了，最后配置不成功。之后经历了不少问题 ，所幸终于将它配置好了
-
+###### 过程：
++ 网上搜索oracle官网下载win10版
++ 将安装好的压缩包进行解压
++ 进电脑属性环境变量新建并编辑
++ 进行检测
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191126182336998.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTkyMTQyNg==,size_16,color_FFFFFF,t_70)
 # 安装虚拟机
