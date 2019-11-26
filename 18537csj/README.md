@@ -20,7 +20,7 @@
 
 # 制作自我介绍
 
-![12](.\jietu.png)
+![12](https://github.com/moranqiuge/new-people/blob/master/18537csj/jietu.png)
 
 为了做这个我都自闭了<img src="./ku.jpg" alt="7" style="zoom:10%;" />,咱作为一个耿直的理工男本来就不会啥设计，以前也没做过这方面的东西，这几天一直在想该咋做才酷炫，搞得我那本就不太稠密的头发更加稀疏了几分，最终也想不出个啥。<img src="./tnl.jpg" alt="3" style="zoom:20%;" />,再加上做网页本来也不太熟练，只能尽量操作一下了。
 
