@@ -89,6 +89,7 @@ fun();
 
 # 自我介绍
 <br>
-
+![](https://github.com/Bangcjh/19-422-cjh/blob/master/QQ%E5%9B%BE%E7%89%8720191126132218.png)
 <br>
+![](https://github.com/Bangcjh/19-422-cjh/blob/master/QQ%E5%9B%BE%E7%89%8720191126132226.png)
 <br>
