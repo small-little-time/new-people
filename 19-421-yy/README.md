@@ -195,7 +195,6 @@ print(yy.name+'最帅')
   
   # html+css的效果展示
   
-  ![自我介绍](https://img-blog.csdnimg.cn/20191124204325318.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
-  ![自我介绍](https://img-blog.csdnimg.cn/20191124204355456.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
-  ![自我介绍](https://img-blog.csdnimg.cn/20191124204400801.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
-  
+   ![瞎子](https://img-blog.csdnimg.cn/20191126185416428.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
+ ![至高之拳](https://img-blog.csdnimg.cn/2019112618542556.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
+  ![盲僧](https://img-blog.csdnimg.cn/20191126185426537.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3l1eXUxNDA0MTE3MDYx,size_16,color_FFFFFF,t_70)
