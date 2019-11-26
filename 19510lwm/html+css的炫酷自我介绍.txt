@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>帅气迷人的自我介绍</title>
+<style>
+body
+	{background-color:#F5F5DC;}
+h1
+{color:#A52A2A;text-align:center;}
+	p{font-family:"Times New Roman";font-size:20px;color:}
+</style>
+</head>
+<body>
+<h1>震惊！史上最强个人介绍今日刷爆朋友圈</h1>
+<p style="color:#9932CC">这是一份传说中的介绍书</p>
+<p style="color:#FFD700">在很久很久以前，有一个阳光活泼的小男孩</p>
+	<img src="https://ss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=2505116116,3866507477&fm=175&s=BA23C2045BB2C2CE0888644A0300F0FA&w=640&h=476&img.PNG" alt="Big Boat"width="800" height="500">
+	<p style="color:#0000CD">他喜欢</p>
+	<img src="http://5b0988e595225.cdn.sohucs.com/q_70,c_zoom,w_640/images/20190818/d67815e0b86546feba0a982264e3d1e4.jpg"width=500;height=500>
+	<p style="color:#F08080">我去，哪来的<b>妖精</b>，我明明喜欢的是<pr>
+		<img src="http://pic05.997788.com/pic_search_r/00/01/04/78/se1047862.jpg" alt="Big Boat">
+		<pr>但生活有时也挺无聊的，为了追求诗和远方<br>他喜欢上了跑步<br>喜欢上了和志同道合的朋友一起在球场上<big>挥汗如雨<big><br>....<pr>
+			<p style="color:#DC143C">日子就这样一天天过去...<br>突然有一天<br>ta发现了一片新大陆--<big>创客基地<big><br>
+				<img src="http://i.3454.com/c/0815090925.jpg" alt="Big Boat">
+				<p style="color:#FF0000">瞬间他想起了年青时候的<big>梦想<big></p>
+			<img src="http://yansudian.com/zb_users/upload/2018/01/201801071515308801360518.jpg" width="500"； height="459">
+			<p>于是他果断递上了自己的<b>报名表</p>
+			<table border="1";cellpadding="50">
+				<caption> 报名表 <caption>
+  <tr>
+    <th>姓名</th>
+    <th>性别</th>
+	 <th>爱好<th>
+	  <th>梦想<th>
+  </tr>
+  <tr>
+    <td>罗伟民</td>
+    <td>自定义</td>
+	  <td>吃饭睡觉打打球<td>
+	  <td>吃遍天下美食<td>
+  </tr>
+</table>
+<img src="http://pic.9ht.com/up/2017-11/2017112410125079883.gif" alt="Big Boat">
+		<hr>
+			<p style="color:blue"><big>没错这就是本人!</big></p>
+					<p>我想成为的我：</p>
+					<img src="http://www.people.com.cn/mediafile/pic/20150330/56/14944825361940516124.jpg" alt="Big Boat">
+					<p>但现在现实生活中的我</p>
+					
+			<img src="https://n.sinaimg.cn/sinacn14/280/w640h440/20180909/60a8-hivtsyk5121702.jpg">
+					<hr>
+					<p style="color:#FF8C00">最后<br>希望组织能给个机会<br>让我融入这个大家庭</p>
+					<img src="http://n.sinaimg.cn/sinacn/w440h384/20180116/d5eb-fyqrewi4787016.jpg" alt="Big Boat">
+					
+</body>
+</html>
