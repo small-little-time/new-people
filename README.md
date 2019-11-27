@@ -126,7 +126,13 @@
 
 ![study](https://github.com/shixi2002/new-people/blob/master/20180103192516264.jpg?raw=true)
 
+# JAVA
 
+1. 配置环境
+
+   ![Java](C:\Users\86186\Pictures\QQ图片20191127155605.jpg)
+
+   
 
 
 
