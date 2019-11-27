@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="cmn-hans">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>个人简介</title>
+</head>
+<body>
+    <div>
+        <h1 style="text-align:center; color: aquamarine; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">
+            首先，我来个自我介绍（@-@）
+        </h1> 
+    </div>
+    <div>
+        <div>
+            <p style="text-align:center; color:#008c8c; font-size:2em; background:#FFFFFF; height: 50px; line-height: 50px;">我的名字：陈涛</p> 
+            <p style="text-align:center; color:#008c8c; font-size:1em; background:#FFFFFF; height: 50px; line-height: 50px;">这么有名的名字，不打算<a href="https://www.baidu.com">百度一下</a>吗？</p>
+            <p style="text-align:center; color:#008c8c; font-size:1em; background:#FFFFFF; height: 50px; line-height: 50px;" >我的标签：程序设计师/学生/爱设计/爱生活/追梦想</p>
+            <div class="menu" style="text-align:center; ">
+                <div style="font-size: x-large; color:#008c8c; background:#FFFFFF; height: 50px; line-height: 50px;">1805班萌新程序员</div>
+                <div style="text-align:center;">
+                    <img src="http://img1.imgtn.bdimg.com/it/u=4172173989,708329210&fm=26&gp=0.jpg" height="400px" width="400px" alt="">
+                </div>
+                <div>
+                <p style="font-size: x-large; color:#008c8c; background:#FFFFFF; height: 50px; line-height: 50px;">导航</p>
+                <a href="#me1" style="font-size: x-large; color:#008c8c; background:#FFFFFF; height: 50px; line-height: 50px;">网页设计</a>
+                <a href="#me2" style="font-size: x-large; color:#008c8c; background:#FFFFFF; height: 50px; line-height: 50px;">生活</a>
+                <a href="#me3" style="font-size: x-large; color:#008c8c; background:#FFFFFF; height: 50px; line-height: 50px;">梦想</a>
+                <a href="#me4" style="font-size: x-large; color:#008c8c; background:#FFFFFF; height: 50px; line-height: 50px;">收藏</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div>
+        <p style="text-align:center;">
+            <strong><span style="font-size:18px;">程序员</span></strong> 
+        </p>
+        <p style="text-align:center;">
+            听说程序员容易掉头发，但我头发很茂盛哦！不信你看（@-o-@）
+        </p>
+        <div style="text-align:center;">
+            <img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4022157416,1072029411&fm=26&gp=0.jpg" height="400px" width="400px" alt="">
+        </div>
+        <div>
+            <p style="text-align:center;">
+                虽然没有对象，但我每天都在面向对象
+            </p>
+            <div style="text-align:center;">
+                    <img src="https://gss1.bdstatic.com/9vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=8c43ce505dda81cb5aeb8b9f330fbb73/91529822720e0cf3f6e7685f0646f21fbe09aa05.jpg" height="400px" width="400px" alt="">
+                </div>
+        </div>
+        <p style="text-align:center;">
+            <br />
+        </p>
+        <p style="text-align:center;">
+            <span style="font-size:24px;background-color:#FF9900;color:#FFFFFF;">&nbsp;01&nbsp;</span> 
+        </p>
+        <p style="text-align:center;" id="me1">
+            <span style="font-size:18px;"><strong>网页设计</strong></span> 
+        </p>
+        
+        <div style="text-align:center;">
+                <img src="http://img.zcool.cn/community/01b01158c1311fa801219c777c14f7.jpg" height="200px" width="400px" >
+            <ul>
+                <li>精通HTML</li>
+                <li>会css样式</li>
+                <li>JavaScript 这个正在学</li>
+                <li>偷偷告诉你，我还会ps和ae哦！</li>
+            </ul>
+        </div>
+        <p style="text-align:center;">
+            <br/>
+        </p>
+        <p style="text-align:center;">
+            <span style="font-size:24px;background-color:#FF9900;color:#FFFFFF;">&nbsp;02&nbsp;</span> 
+        </p>
+        <p style="text-align:center;" id="me2">
+            <span style="font-size:18px;"><strong>轻生活</strong></span> 
+        </p>
+        <div style="text-align:center;">
+                <img src="http://img4.imgtn.bdimg.com/it/u=1466662081,1140396699&fm=26&gp=0.jpg" height="400px" width="400px" >
+                <ul>
+                    <li>爱音乐</li>
+                    <li>爱动漫</li>
+                    <li>爱漫画</li>
+                    <li>爱学习（o-o）</li>
+                </ul>
+        </div>
+        <p style="text-align:center;">
+            <br/>
+        </p>
+        <p style="text-align:center;">
+            <span style="font-size:24px;background-color:#FF9900;color:#FFFFFF;">&nbsp;03&nbsp;</span> 
+        </p>
+        <p style="text-align:center;" id="me3">
+            <span style="font-size:18px;"><strong>我的梦想</strong></span> 
+        </p>
+        <div style="text-align:center;">
+                <ul>
+                        <li>wab前端工程师</li>
+                        <li>网络工程师</li>
+                        <li>动画设计师</li>
+                </ul> 
+        </div>
+        <p style="text-align:center;">
+            <br/>
+        </p>
+        <p style="text-align:center;">
+            <span style="font-size:24px;background-color:#FF9900;color:#FFFFFF;">&nbsp;04&nbsp;</span> 
+        </p>
+        <p style="text-align:center;" id="me4">
+            <span style="font-size:18px;"><strong>收藏</strong></span> 
+        </p>
+    </div>
+    <div style="text-align:center;">
+        <img src="http://cdn.duitang.com/uploads/item/201507/09/20150709130218_F3Uf8.jpeg" height="400px" width="400px" >
+        <p>好了，没了！</p>
+    </div>
+</body>
+</html>
