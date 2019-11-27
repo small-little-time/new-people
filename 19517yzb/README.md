@@ -2,17 +2,19 @@
 
 [1]:https://github.com/kimojinmmp
 
-...<font color=#0099ff>经过了几天几夜彻夜无眠的学习
-我终于了解了Markdown的基本使用方式，以及各种基本语法。</font>...
+<font style="text-align: center;
+    background-color: whitesmoke;
+        font-size: 60px;
+        text-shadow: 5px 5px 5px black;
+        color: white;">经过了几天几夜彻夜无眠的学习我终于了解了Markdown的基本使用方式，以及各种基本语法。</font>
 
 # 1.**[我学习Markdown的方式与经验]**  
-    1. 首先我下载了一个Good chrome浏览器，在里面直接搜索了markdown学习.  
-[2]:https://www.runoob.com/markdown/md-title.html  
-    2. 然后我在一个[菜鸟教程][2]的网站，里面有许多资料.    
-    3. 然后我还用到了b站，观看了各个大佬的视频后，我对markdown有了更深一步的了解  
-    4. 我还在不知道怎么用Markdown时，去百度贴吧找了一下我要的答案，最后在[xiebruce][3]这位大佬的帮助下我成功地学会了这一知识
-    5. 我不知道怎么在markdown中插入图片时，我找了17级的学长并且在百度上大量的搜寻，最终学会了这如何插入图片  
-    6. 最后在[简书][5]的一个网页上完善我对Markdown的理解  
+   #### 首先我下载了一个Good chrome浏览器，在里面直接搜索了markdown学习.
+   #### 然后我在一个[菜鸟教程](https://www.runoob.com/markdown/md-title.html  )的网站，里面有许多资料.
+   #### 然后我还用到了b站，观看了各个大佬的视频后，我对markdown有了更深一步的了解
+   #### 我还在不知道怎么用Markdown时，去百度贴吧找了一下我要的答案，最后在[xiebruce][3]这位大佬的帮助下我成功地学会了这一知识
+   #### 我不知道怎么在markdown中插入图片时，我找了17级的学长并且在百度上大量的搜寻，最终学会了这如何插入图片
+   #### 最后在[简书][5]的一个网页上完善我对Markdown的理解
 
 [3]: https://github.com/xiebruce/PicUploader
 [5]:https://www.jianshu.com/p/40ba812dd973
@@ -36,12 +38,15 @@
 这是我的[大b站][6]
   
 [6]:https://www.bilibili.com/  
+
+## Markdown 图片  
 ### 这是我的帅照
 ![]( https://github.com/kimojinmmp/new-people/blob/master/19517yzb/png.1/1b2c0292341efd00e89ebf0b09090c18%20(1).jpg)
 
 #### 不好意思放错了  
 ~~Sorry!本人已帅到电脑显示不出 :stuck_out_tongue_winking_eye: :stuck_out_tongue_winking_eye:~~
 
+## Markdown 表格  
 ### 这是我的简介：
  
 | 姓名 | 性别 | 性格 |
