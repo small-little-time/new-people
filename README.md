@@ -130,7 +130,7 @@
 
 1. 配置环境
 
-   ![Java](C:\Users\86186\Pictures\QQ图片20191127155605.jpg)
+   ！[java](https://github.com/shixi2002/new-people/blob/master/QQ%E5%9B%BE%E7%89%8720191127155605.jpg?raw=true)
 
    
 
