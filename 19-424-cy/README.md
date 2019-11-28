@@ -121,3 +121,36 @@ scanf("%d",&a[i]);
 # 安装虚拟机
 ###### 先安装好，后进行新建即可
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191126183609109.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTkyMTQyNg==,size_16,color_FFFFFF,t_70)
+
+
+<!DOCTYPE htlm>
+<htlm>
+        <head>
+             cheny的可爱介绍
+         </head>
+         <body>
+               <img src="https://pic.sogou.com/ris?query=https%3A%2F%2Fi03piccdn.sogoucdn.com%2Fc69b1b1880805367&flag=1&drag=1" />
+          <p>我？
+           <pr>我是谁？</pr>
+           我就是全宇宙无敌超级超级可爱帅气的 ~ 茫茫人海小小的不起眼的一粒沙而已！!
+           嘿嘿!
+           本人04班编程学子一枚
+           大家可以叫我 陈 ，也可以叫 cheny哦
+           </p>
+          <ul>
+               <li><p style="color:red">平时日常</p>
+           </body>
+           </htlm>   
+                
+                
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+
