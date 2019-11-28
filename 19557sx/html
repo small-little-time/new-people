@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="img">
+</head>
+<body>
+    <h1 font="center">个人简介</h1>
+<div class="Cecile.s">
+        <h2>Cecile.s</h2>
+<p><img src="石希/-3fd48bbe895ccff.jpg"width="225" height="300" /></p>
+<div style="background-image: url(石希/31904b35634a45cb.jpg); width:225px;height: 300px; 
+background-size:100%;position: absolute;top: 139px;left: 920px;" ></div>
+<div style="background-image: url(石希/t0195808e870bea1853.jpg); width:450px;height: 300px; 
+background-size:100%;position: absolute;top: 139px;left: 350px;" ></div>
+<p>姓名：石希</p>
+<p>年龄：17</p>
+<p>	爱好：踢球，画画，旅游<p>
+</div> 
+<h2>个人经历</h2>
+<p>个人网站：<p><a href="https://github.com/shixi2002">shixi2002</a> </p>
+<p>就读学校：怀化学院</p>
+<p>学院：计算机科学与工程学院</p>
+
+	<body  style="background-image: url(http://www.ouou.cn/uploadfile/2015/0830/20150830120907100.jpg);">
+        <h1>Cecile.s</h1>
+
+        <embed height="100" width="100" src="E:\CloudMusic\Slushii - Walls.mp3"></embed>
+</body>
+</html>
