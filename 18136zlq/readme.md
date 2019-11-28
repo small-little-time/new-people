@@ -5,3 +5,5 @@ HELLO
 ## tomcat
 
 ## 自我介绍
+
+![avatar](./img/mine.png)
