@@ -140,9 +140,11 @@
 
 
 
+####
 
 
 # 虚拟机
+![虚拟机](https://github.com/shixi2002/new-people/blob/master/2019-11-28%20(1).png?raw=true)
 
 
 
