@@ -72,4 +72,4 @@ HELLO
  ###多加运用，孰能生巧。
 ## 自我介绍
 
-![avatar](./img/111.png)
+![avatar](./img/1.png)
