@@ -142,45 +142,6 @@
 
   
 
-- ### 19级任务清单
-
-  - 在自己电脑上配置**java环境**，并在自己的README.md文件上做好记录。
-  - 在自己电脑上装个**虚拟机**，并在自己的README.md文件上做好记录。
-  - 用**Html+Css**写一个**稍微炫酷**的自我介绍，放到以自己 `学号前两位+后三位+名字缩写` 命名的文件夹中，并将效果图放在README.md的文件中。
-
-------
-
-
-------
-
-## 相关资源
-
-[这里是百度](https://www.baidu.com/)
-
-[这里是需要翻墙使用的谷歌](https://www.google.com/)
-
-[Github 简明教程](https://www.runoob.com/w3cnote/git-guide.html)
-
-[GitHub 使用教程图文详解](https://blog.csdn.net/hdfyhf/article/details/83931825)
-
-[markdown语法](http://www.markdown.cn/#overview)
-
-[介绍3款Markdown编辑器](https://blog.csdn.net/qq1332479771/article/details/80474663)
-
-[Tomcat 下载安装与配置](https://www.cnblogs.com/limn/p/9358657.html)
-
-[Windows下安装MySQL详细教程](https://www.cnblogs.com/zhangkanghui/p/9613844.html)
-
-[Windows 10 配置Java 环境变量](https://www.runoob.com/w3cnote/windows10-java-setup.html)
-
-[最新超详细VMware虚拟机下载与安装](https://blog.csdn.net/qq_40950957/article/details/80467513)
-
-
-
-
-
-
-
 
 
 
