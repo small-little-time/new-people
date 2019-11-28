@@ -117,22 +117,38 @@ scanf("%d",&a[i]);
 + 进电脑属性环境变量新建并编辑
 + 进行检测
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191126182336998.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTkyMTQyNg==,size_16,color_FFFFFF,t_70)
+![](https://img-blog.csdnimg.cn/20191126182336998.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTkyMTQyNg==,size_16,color_FFFFFF,t_70)
 # 安装虚拟机
 ###### 先安装好，后进行新建即可
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20191126183609109.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTkyMTQyNg==,size_16,color_FFFFFF,t_70)
+![](https://img-blog.csdnimg.cn/20191126183609109.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTkyMTQyNg==,size_16,color_FFFFFF,t_70)
+ # 自我介绍
+ ### 由于在下面效果出了点小问题，故用在其它编译器上的截图展示。如下
+ ![效果如下](https://img-blog.csdnimg.cn/20191129001052886.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTkyMTQyNg==,size_16,color_FFFFFF,t_70)
 
 
 <!DOCTYPE htlm>
 <htlm>
         <head>
-             cheny的可爱介绍
+<style>
+p{
+font-weight:bold;
+color:blue
+}
+
+
+
+</style>
+
+             <b>cheny的可爱介绍<b>
+
+
+
          </head>
          <body>
                <p>可不可爱呀？？？</p>
-               <img src="http://fenby.b0.upaiyun.com/Courses/HTML/1013411.jpg" />
+               <img src="https://img01.sogoucdn.com/net/a/04/link?url=https%3A%2F%2Fi04piccdn.sogoucdn.com%2F53d740e414701bb5&appid=122" >
           <p>我？
-           我是谁？
+         <br/>我是谁？
            <strong>我就是全宇宙无敌超级超级可爱帅气的 ~ 茫茫人海小小的不起眼的一粒沙而已！!
            嘿嘿!
            本人04班编程学子一枚
@@ -148,15 +164,13 @@ scanf("%d",&a[i]);
                       <li style=>当然，还有学习高数英语呀！</li>
                   </u1>
           </li>
-           
-           
-           </body>
-           </htlm>   
+  </body>
+  </htlm>   
                 
                 
+                
          
-         
-         
+       
          
          
          
