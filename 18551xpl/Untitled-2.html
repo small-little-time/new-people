@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>xpl</title>
+<link rel="stylesheet" type="text/css" href="Untitled-2.css">
+<style type="text/css">
+p {
+	line-height: 200%
+}
+body {
+	margin: 20px;
+}
+#id2 {
+	color: #36FD05
+}
+#id3 {
+	color: #36FD05
+}
+#one {
+	width: 100%;
+	height: 100%;
+}
+#two {
+	width: 100%;
+	height: 10%;
+}
+#three {
+	width: 20%;
+	height: 75%;
+	float:left;
+	border: #EEA89E;
+	border-style: dotted;
+}
+#four {
+	width: 78%;
+	height: 75%;
+	float: left;
+	margin-left: 10px;
+	border-style:groove;
+	
+}
+#five {
+	width：100%;
+	height: 13%;
+	margin-top: 20px;
+	clear: both;
+	border-style:dashed;
+}
+	#div{height: 10%;width: 10}
+</style>
+</head>
+<body>
+<div id="one" style="width: 1500px; height: 1500px;text-align: center">
+  <div id="two">
+    <p id="id1"><strong>大家好，</strong> <img src="img/u=3942984676,2997424445&fm=26&gp=0.jpg" height="40px"> <strong>我是练习时长一星期的前端练习生xpl</strong></p>
+  </div>
+  <div id="three">
+    <h2 style="color: aqua">关于我:</h2>
+    <p id="id2"   align="left" style="text-indent: 2em"> 唱、跳、rap，我都不喜欢。平时喜欢宅在寝室打打游戏。但是<img src="img/v2-b6cf5c8379994f30b902c43d189699ef.jpg" style="vertical-align: middle; height="100px "></img> 好吧，于是我猛然想到，我不能再这样子下去了。我要改变！！！但是，<img src="img/1574830324290.jpeg" height="100px " style="vertical-align: middle;> </img> 
+	</p>
+    <div class="main"> <span class="blink">于是我决定加入基地。</span>
+    <p id="id3" align="left" style="text-indent: 2em">哦，对了，这好像应该是个“炫酷”的自我介绍。但我真的做不到啊。<img src="img/v2-12f6c26903e8679a80add1644a9782de.jpg" height="100px" style="vertical-align: middle"> 欸~~</p>
+  </div>
+  <style type="text/css" >
+.main{<!---->
+  color:aliceblue;margin-top:0px;
+}
+@keyframes blink{
+  0%{opacity: 1;}
+  100%{opacity: 0;} 
+}
+@-webkit-keyframes blink {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+}
+@-moz-keyframes blink {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+}
+@-ms-keyframes blink {
+    0% {opacity: 1; } 
+    100% { opacity: 0;}
+}
+@-o-keyframes blink {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
+}
+.blink{
+    color:aqua;
+    animation: blink 1s linear infinite;  
+    -webkit-animation: blink 1s linear infinite;
+    -moz-animation: blink 1s linear infinite;
+    -ms-animation: blink 1s linear infinite;
+    -o-animation: blink 1s linear infinite;
+}
+</style>
+<div id="four">
+	<h1>真·炫酷特效</h1><p align="left" style=" text-indent: 2em;font-size: 20px;margin-left: 50px">  </p>
+	<div id="six"> </div>
+	<div id="div"></div>
+	<script>
+    var i=0;
+    function myDate(){
+        var now=new Date();
+        var year=now.getFullYear();
+        var month=now.getMonth()+1;
+        var day=now.getDate();
+        var hours=now.getHours();
+        var minutes=now.getMinutes();
+        var seconds=now.getSeconds();
+
+        document.getElementById("div").innerHTML=year+"年"+month+"月"+day+"日"+hours+"："+minutes+"："+seconds;
+    }
+    setInterval(myDate,1000);
+</script>
+</html>
+	</div>
+<div id="five">
+	<h2>这是结尾</h2>
+	<p>网上课程随便看，嗯这个学会了，嗯那个也学会了，打开编辑器，输入html然后写啥来着？？？</p>
+	<p>哈哈就这样了，实在是不会写特效，网上找的模板太炫了</p>
+	<p>总之就是多<a href="https://www.baidu.com/">百度</a></p>
+	</div>
+</div>
+</body>
+</html>
