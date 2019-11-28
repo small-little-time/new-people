@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>welecome niubi wang</title>
+        <script type="text/javascript">
+            alert("我要开始装逼了");
+            alert("3");
+            alert("2");
+            alert("1");
+        </script>
+        <style>
+            h1{text-align:center;font-size: 3em;background-color: black;color: white;}
+            #test{text-align:center;color:paleturquoise}
+            #red{color:tomato;text-align:center;background-color: cornsilk;}
+            table{font-size: 3em;text-align:center;}
+            #hy{background-color:moccasin;color: black;}
+            body{background-repeat: no-repeat;background-position:500px 200px;background-attachment: fixed;background-color: lightsteelblue;}
+        </style>
+    </head>
+    <body background=b1208.jpg>
+        <h1>这&nbsp;是&nbsp;一&nbsp;个&nbsp;牛&nbsp;逼&nbsp;的&nbsp;人&nbsp;的&nbsp;自&nbsp;我&nbsp;介&nbsp;绍&copy</h1>
+        <h2 id="test">(该介绍仅用于阅读请勿转载)</h2>
+        <hr>
+        <h1 id="red">这是咱学校<img src="201411251713539704297904.jpg"width="100%"alt="这有图"></h1>
+        <br><i><h1 id="hy">下面是标准的不能在标准的个人信息</h1></i>
+        <img src="1507480021-3925.jpg" >
+            <table border="1px" cellspacing="0" align="center">
+                <tr>
+                    <td align="center";width="200px">姓名</td>
+                    <td align="center";width="200px">谭红勇</td>
+                    <td align="center";width="200px">性别</td>
+                    <td align="center";width="200px">男</td> 
+                </tr>
+                <tr>
+                        <td>年龄</td>
+                        <td>十又九</td>
+                        <td>民族</td>
+                        <td>汉</td>
+                </tr>
+                <tr>
+                        <td>体重</td>
+                        <td>一头猪的重量</td>
+                        <td>身高</td>
+                        <td>珠峰高</td>
+                </tr>
+                <tr>
+                        <td>籍贯</td>
+                        <td>大湖南</td>
+                        <td>学历</td>
+                        <td>本科</td>
+                </tr>
+                <tr>
+                        <td>婚姻状况</td>
+                        <td>母胎solo</td>
+                        <td>政治面貌</td>
+                        <td>光荣的共青团员</td>
+                </tr>
+            </table>
+            <p>
+                <h1>
+                    下面还有跟精彩的吼
+                </h1>
+            </p>
+           <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <p>
+                <h1>其实没了哈哈哈哈哈哈哈哈哈哈，惊不惊喜，意不意外</h1>
+            </p>
+      
+
+        
+    
+    </body>
+</html>
