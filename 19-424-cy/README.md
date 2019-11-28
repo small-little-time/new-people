@@ -129,16 +129,27 @@ scanf("%d",&a[i]);
              cheny的可爱介绍
          </head>
          <body>
-               <img src="https://pic.sogou.com/ris?query=https%3A%2F%2Fi03piccdn.sogoucdn.com%2Fc69b1b1880805367&flag=1&drag=1" />
+               <p>可不可爱呀？？？</p>
+               <img src="http://fenby.b0.upaiyun.com/Courses/HTML/1013411.jpg" />
           <p>我？
-           <pr>我是谁？</pr>
-           我就是全宇宙无敌超级超级可爱帅气的 ~ 茫茫人海小小的不起眼的一粒沙而已！!
+           我是谁？
+           <strong>我就是全宇宙无敌超级超级可爱帅气的 ~ 茫茫人海小小的不起眼的一粒沙而已！!
            嘿嘿!
            本人04班编程学子一枚
-           大家可以叫我 陈 ，也可以叫 cheny哦
+           大家可以叫我 陈 ，也可以叫 cheny哦</strong>
            </p>
-          <ul>
-               <li><p style="color:red">平时日常</p>
+        <li><strong><p style="color:red">平时日常</p></strong>
+                   <u1>
+                      <li style=>听点小歌</li>
+                      <li style=>编点小程序</li>
+                      <li style=>玩点网游</li>
+                      <li style=>打个小球</li>
+                      <li style=>跑会小步</li>
+                      <li style=>当然，还有学习高数英语呀！</li>
+                  </u1>
+          </li>
+           
+           
            </body>
            </htlm>   
                 
