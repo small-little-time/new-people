@@ -48,6 +48,7 @@ Python
 1.在官网上寻找下载虚拟机<br>
 2.点击安装
 
+＃自我介绍
 
 ![图1](https://img-blog.csdnimg.cn/20191129002822677.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTg5OTU2OQ==,size_16,color_FFFFFF,t_70)
 
