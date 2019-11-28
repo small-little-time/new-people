@@ -34,6 +34,21 @@ URL即图片的url地址，如果引用本仓库中的图片，直接使用相�
 Python
 
 
+# 我的学习经历
+各位学长学姐你们好，下面我简单介绍一下我学习markdown的经历
+    刚开始学习的时候，对于那些专业术语我感到很困惑，也感到很无奈，不知无从下手，后来我通过询问同学，学长学姐们，逐渐的摸到了一些思路。
+通过百度，查找各类资料，学会了如何操作，运用。
+# JAVA环境配置：
+1.在官网上面寻找下载JDK<br>
+2.将JDK存放于c盘中<br>
+3.打开我的电脑，点击属性，再找到环境变量<br>
+4.再path中添加%JAVA_HOME%\bin<br>
+5.打开cmd,检测是否安装成功<br>
+# 虚拟机的安装
+1.在官网上寻找下载虚拟机<br>
+2.点击安装
+
+
 ![图1](https://img-blog.csdnimg.cn/20191129002822677.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTg5OTU2OQ==,size_16,color_FFFFFF,t_70)
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191129002840307.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTg5OTU2OQ==,size_16,color_FFFFFF,t_70)
