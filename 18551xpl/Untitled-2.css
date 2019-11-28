@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+body{background-image: url(img/pexels-photo-3260921.jpeg);background-size:cover;background-attachment: fixed}
+#id1{font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";font-size: 25px;color:#E40307}
+#six{width: 300px;height: 200px;background-color: aqua;margin-left: 200px; position: relative;animation: anim 5s infinite alternate;-webkit-animation:anim 5s infinite alternate;}
+@keyframes anim{
+	0%{background-color:aqua;left: 0px;top: 0px;}
+	25%{background-color:antiquewhite;left: 400px;top: 0px;}
+	50%{background-color:#05F044;left: 400px;top: 400px;}
+	75%{background-color:#E7FD07;left: 0px;top: 400px;}
+	100%{background-color: aliceblue;left: 0px;top: 0px;}
+}
+@-webkit-keyframes anim{
+	0%{background-color:aqua;left: 0px;top: 0px;}
+	25%{background-color:antiquewhite;left: 400px;top: 0px;}
+	50%{background-color:#05F044;left: 400px;top: 400px;}
+	75%{background-color:#E7FD07;left: 0px;top: 400px;}
+	100%{background-color: aliceblue;left: 0px;top: 0px;}
+}
+footer {font-size: 20px}
+#six{margin-top: 50px}
+#div{color:#F70105;font-size: 15px;position: absolute;top: 1000px;bottom: 100px;right: 500px;font-size: 25px}
+h2{color:#00BBFF}
+p{color: #F5F5F5}
