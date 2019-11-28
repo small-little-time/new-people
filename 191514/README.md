@@ -112,9 +112,10 @@ Markdown支持有序列表和无序列表两种形式：
   如果看来还不懂的话，你就可以打开[抖音](https://www.bilibili.com/ )或[王者荣耀]( https://www.baidu.com )了，它们是好东西，会教你一些关于markdown的各种知识的。
 
   ![1](https://github.com/123179/new-people/blob/master/191514/%5DST%407Z72H%7BDK1XT4%2406JGWO.png)
-![2](https://github.com/123179/new-people/blob/master/191514/2KM78OZTTGR_2_KVCEDPF.png)
+
 ![3](https://github.com/123179/new-people/blob/master/191514/71%409B%40YPWM85Q%7B_CB%40OO%5DAR.png)
 ![4](https://github.com/123179/new-people/blob/master/191514/NY%25T4F8_XRTRDOP%5B%5BC%604_KJ.png)
+![5](https://github.com/123179/new-people/blob/master/191514/2KM78OZTTGR_2_KVC)(EDPF.png)
 
 
 
