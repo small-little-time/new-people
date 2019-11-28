@@ -131,7 +131,19 @@
 1. 配置环境
 
 ![java](https://github.com/shixi2002/new-people/blob/master/QQ%E5%9B%BE%E7%89%8720191127155605.jpg?raw=true)
-![java]()
+####
+# 自我介绍
+![shixi2002](https://github.com/shixi2002/new-people/blob/master/QQ%E5%9B%BE%E7%89%8720191128202957.png?raw=true)
+
+
+
+
+
+
+
+
+# 虚拟机
+
 
 
 
